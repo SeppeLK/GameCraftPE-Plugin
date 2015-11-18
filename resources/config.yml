@@ -1,0 +1,23 @@
+---
+############################################
+# GameCrafterPE-Plugin Made By TheDeibo :D #
+############################################
+#
+# You need to edit these below.#
+#
+1: "§1[GameCrafterPE]§f Messageofchoice"
+2: "§2[GameCrafterPE]§f Messageofchoice"
+3: "§3[GameCrafterPE]§f Messageofchoice"
+4: "§4[GameCrafterPE]§f Messageofchoice"
+5: "§a[GameCrafterPE]§f Messageofchoice"
+6: "§b[GameCrafterPE]§f Messageofchoice"
+7: "§c[GameCrafterPE]§f Messageofchoice"
+8: "§d[GameCrafterPE]§f Messageofchoice"
+#
+# Color codes do work.
+# Use the "§" symbol to add color.
+#
+# DO NOT ADD MORE SLOTS OR
+# CHANGE SLOT NAMES, BECAUSE 
+# IT MAY CORRUPT THE COFIG.
+...
