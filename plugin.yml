@@ -1,0 +1,15 @@
+name: GameCraft-Plugin
+main: GameCraftPE\Main
+version: 1.0.0
+api: [1.10.0]
+load: POSTWORLD
+author: TheDeibo
+description: Allows the server owner to have their own persanol pulugin
+commands:
+ gamecraftpe:
+  description: §dDisplays Infomation
+  permission: gamecraftpe.gamecraftpe
+permissions:
+ gamecraftpe.gamecraftpe:
+   description: §dDisplays Infomation
+   default: op
