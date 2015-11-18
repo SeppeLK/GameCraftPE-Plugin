@@ -1,5 +1,5 @@
 <?php
-namespace TheDeibo\YourPlugin;
+namespace GameCraftPE;
 
 use pocketmine\utils\TextFormat;
 use pocketmine\plugin\PluginBase;
