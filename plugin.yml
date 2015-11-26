@@ -4,7 +4,7 @@ version: 1.0.0
 api: [1.10.0]
 load: POSTWORLD
 author: TheDeibo
-description: Allows the server owner to have their own persanol pulugin
+description: Allows the server owner to have their own personal plugin
 commands:
  gamecraftpe:
   description: §dDisplays Infomation
